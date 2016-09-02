@@ -1,0 +1,8 @@
+{
+    "params": {
+        "check_intervall": "2",
+        "fileversion_sep": "_v",
+        "init_number": "0001",
+        "method_change_detect": "content"
+    }
+}

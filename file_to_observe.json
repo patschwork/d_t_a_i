@@ -1,0 +1,6 @@
+{
+  "1":{"key_Filename":"C:\\users\\foo_bar\\documents\\File_A.doc", "key_Save_To_Same_Folder" :"True"},
+  "2":{"key_Filename":"C:\\Temp\\important_notes.txt", "key_Save_To_Same_Folder":"True"},
+  "3":{"key_Filename":"C:\\config\\server.ini", "key_Save_To_Same_Folder":"False", "key_Alternate_Backup_Folder":"C:\\Backup\\my_server_configs\\"},
+  "4":{"key_Filename":"C:\\dev\\some_project\\important_file.txt", "key_Save_To_Same_Folder":"False", "key_Alternate_Backup_Folder":"C:\\users\\foo_bar\\documents\\dropbox\\history_dev\\"}
+}
